@@ -1,0 +1,18 @@
+loguru
+tqdm
+pyyaml
+pandas
+matplotlib
+scikit-learn
+scikit-image
+scipy
+opencv-python
+seaborn
+albumentations
+tabulate
+warmup-scheduler
+mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11.0/index.html
+einops
+pthflops
+torchsummary
+thop
